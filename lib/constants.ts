@@ -1,0 +1,51 @@
+export const events = [
+  {
+    title: "React Conf 2024",
+    image: "/images/event1.png",
+    slug: "react-conf-2024",
+    location: "Las Vegas, NV",
+    date: "May 15-16, 2024",
+    time: "9:00 AM - 6:00 PM",
+  },
+  {
+    title: "Next.js Conf",
+    image: "/images/event2.png",
+    slug: "nextjs-conf",
+    location: "San Francisco, CA",
+    date: "October 25-26, 2024",
+    time: "10:00 AM - 5:00 PM",
+  },
+  {
+    title: "JSConf US",
+    image: "/images/event3.png",
+    slug: "jsconf-us",
+    location: "Austin, TX",
+    date: "August 28-30, 2024",
+    time: "9:00 AM - 7:00 PM",
+  },
+  {
+    title: "DevWorld Hackathon",
+    image: "/images/event4.png",
+    slug: "devworld-hackathon",
+    location: "New York, NY",
+    date: "June 10-12, 2024",
+    time: "24/7",
+  },
+  {
+    title: "AWS re:Invent",
+    image: "/images/event5.png",
+    slug: "aws-reinvent",
+    location: "Las Vegas, NV",
+    date: "December 2-6, 2024",
+    time: "8:00 AM - 8:00 PM",
+  },
+  {
+    title: "GitHub Universe",
+    image: "/images/event6.png",
+    slug: "github-universe",
+    location: "San Francisco, CA",
+    date: "November 13-14, 2024",
+    time: "9:00 AM - 6:00 PM",
+  },
+];
+
